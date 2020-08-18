@@ -1,1 +1,1 @@
-web: .bin/go-heroku-test
+web:/app/bin/go-heroku-test
