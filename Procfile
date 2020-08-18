@@ -1,1 +1,1 @@
-web: .bin/go-heroku-test-jonas
+web: .bin/go-heroku-test
